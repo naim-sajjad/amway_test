@@ -56,7 +56,7 @@ export declare class CdkCopyToClipboard implements OnDestroy {
      * @breaking-change 10.0.0
      */
     _ngZone?: NgZone | undefined, config?: CdkCopyToClipboardConfig);
-    /** Copies the current text to the clipboard. */
+    /** ies the current text to the clipboard. */
     copy(attempts?: number): void;
     ngOnDestroy(): void;
 }
