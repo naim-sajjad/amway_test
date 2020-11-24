@@ -1,5 +1,5 @@
 /**
- * @fileoverview added by tsickle
+ * @sssfileoverview added by tsickle
  * Generated from: src/cdk/layout/layout-module.ts
  * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
